@@ -4,6 +4,8 @@
   "private": true,
   "homepage": "https://sonderswag.github.io/https_react_rtc",
   "dependencies": {
+    "agora-rtc-sdk": "^2.3.1",
+    "ajv": "^6.5.1",
     "react": "^16.4.1",
     "react-dom": "^16.4.1",
     "react-scripts": "1.1.4"
